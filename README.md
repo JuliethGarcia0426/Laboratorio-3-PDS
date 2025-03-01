@@ -362,7 +362,7 @@ def fft(señal, sr, title):
 
 for i in range(3):
 
-`    `print(f"\n🔹 Análisis espectral de la fuente separada {i+1}")
+`    `print(f"\n Análisis espectral de la fuente separada {i+1}")
 
 `    `fft(separacionfiltrada[:, i], sr1, f"Fuente Separada {i+1}")
 
