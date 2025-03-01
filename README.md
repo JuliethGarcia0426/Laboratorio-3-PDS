@@ -433,13 +433,20 @@ Posible causa: Mejor posicionamiento del micrófono, mejor captación o menor in
 
 ## Audios
 
-**[🔊 Descargar audio fuente 1](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/rama/audio.mp3)**
-**[🔊 Descargar audio fuente 2](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/rama/audio.mp3)**
-**[🔊 Descargar audio fuente 3](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/rama/audio.mp3)**
+**[🔊 Descargar audio fuente 1](https://github.com/JuliethGarcia0426/Laboratorio-3-PDS/raw/refs/heads/main/Julieth-Garc%C3%ADa_s-Video-Feb-25_-2025-_2_.wav)**
+
+**[🔊 Descargar audio fuente 2](https://github.com/JuliethGarcia0426/Laboratorio-3-PDS/raw/refs/heads/main/Julieth-Garc%C3%ADa_s-Video-Feb-25_-2025.wav)**
+
+**[🔊 Descargar audio fuente 3](https://github.com/JuliethGarcia0426/Laboratorio-3-PDS/raw/refs/heads/main/Julieth-Garc%C3%ADa_s-Video-Feb-25_-2025-_4_.wav)**
+
 **[🔊 Descargar audio silencio](https://github.com/JuliethGarcia0426/Laboratorio-3-PDS/raw/refs/heads/main/Silencio.wav)**
+
 **[🔊 Descargar audio fuente separada 1](https://github.com/JuliethGarcia0426/Laboratorio-3-PDS/raw/refs/heads/main/fuente_separada_1_denoised.wav)**
+
 **[🔊 Descargar audio fuente separada 2](https://github.com/JuliethGarcia0426/Laboratorio-3-PDS/raw/refs/heads/main/fuente_separada_2_denoised.wav)**
+
 **[🔊 Descargar audio fuente separada 3](https://github.com/JuliethGarcia0426/Laboratorio-3-PDS/raw/refs/heads/main/fuente_separada_3_denoised.wav)**
+
 
 
 
